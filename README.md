@@ -3,6 +3,7 @@ Visualize the wind on earth, powered by [Cesium JS](https://github.com/Analytica
 
 the demo of wind-field is below:
 ![Image text](https://github.com/AlbertEjiestein/Wind-Field-Cesium/blob/master/img/demo.png)
+
 the UI function is below:
 ![Image text](https://github.com/AlbertEjiestein/Wind-Field-Cesium/blob/master/img/demo-ui.png)
 
