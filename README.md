@@ -1,5 +1,10 @@
-# 3D-Wind-Field [Demo](https://raymanng.github.io/3D-Wind-Field/demo/)
+# 3D-Wind-Field
 Visualize the wind on earth, powered by [Cesium JS](https://github.com/AnalyticalGraphicsInc/cesium).
+
+the demo of wind-field is below:
+![Image text](https://github.com/AlbertEjiestein/Wind-Field-Cesium/blob/master/img/demo.png)
+the UI function is below:
+![Image text](https://github.com/AlbertEjiestein/Wind-Field-Cesium/blob/master/img/demo-ui.png)
 
 ## The wind field visualization schematic
 The detailed process about this project is in visualization-principle.vsdx, the flow chart introduces the rendering procedure of Cesium and the method of custom primitive.
