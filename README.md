@@ -3,6 +3,7 @@ Visualize the wind on earth, powered by [Cesium JS](https://github.com/Analytica
 
 ## The wind field visualization schematic
 The detailed process about this project is in visualization-principle.vsdx, the flow chart introduces the rendering procedure of Cesium and the method of custom primitive.
+![Image text](https://github.com/AlbertEjiestein/Wind-Field-Cesium/blob/master/img/visualization-principle.png)
 
 ## How to start the application
 Just create a HTTP server for the "index.html" file in the "Cesium-3D-Wind" folder.
